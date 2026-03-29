@@ -2,7 +2,7 @@
 
 A modern, fully responsive SaaS landing page built with React, Vite, and Tailwind CSS.
 
-**Live Demo → [your-project.vercel.app](https://your-project.vercel.app)**
+**Live Demo → https://saas-landing-page-khaki-xi.vercel.app/
 
 ## ✨ Features
 
@@ -37,4 +37,4 @@ npm run build
 
 ---
 
-Built by [Your Name](https://github.com/YOUR_USERNAME)
+Built by (https://github.com/abubakiryakubov8)
