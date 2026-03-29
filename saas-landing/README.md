@@ -1,16 +1,40 @@
-# React + Vite
+# 🚀 SaaS Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, fully responsive SaaS landing page built with React, Vite, and Tailwind CSS.
 
-Currently, two official plugins are available:
+**Live Demo → [your-project.vercel.app](https://your-project.vercel.app)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- Hero section with animated badge and stats
+- Features grid with hover effects
+- Pricing cards with highlighted popular plan
+- Testimonials section
+- Fully responsive (mobile → desktop)
+- Fast load — built with Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠 Tech Stack
 
-## Expanding the ESLint configuration
+| Tool | Purpose |
+|------|---------|
+| React 18 | UI framework |
+| Vite | Build tool |
+| Tailwind CSS | Styling |
+| Vercel | Deployment |
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Run Locally
+```bash
+git clone https://github.com/YOUR_USERNAME/saas-landing-page.git
+cd saas-landing-page
+npm install
+npm run dev
+```
+
+## 📦 Build for Production
+```bash
+npm run build
+```
+
+---
+
+Built by [Your Name](https://github.com/YOUR_USERNAME)
